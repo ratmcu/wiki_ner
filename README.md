@@ -18,3 +18,10 @@ dataset = WikiNameEntities()
 for annotation in dataset:
     print(annotation)
 ```
+## manual inspection
+
+will print the samples with marked annotations and the category
+
+```
+python3 manual_evaluate.py
+```
