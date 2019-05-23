@@ -6,6 +6,7 @@ import wget
 import pickle
 import ast
 import random
+import math
 class hashabledict(dict):
     def __hash__(self):
         return hash(tuple(sorted(self.items())))
@@ -58,9 +59,13 @@ class WikiNameEntities():
         if os.path.isfile(anntn_pth) and os.path.isfile(sntnce_pth):
             annotation_df = pd.read_csv(anntn_pth)
             annotations = []
-            for i in range(0, len(annotation_df)):
-                annotations.append(ast.literal_eval(annotation_df.iloc[i][0]))
             sentences = pd.read_csv(sntnce_pth)
+            for i in range(0, len(annotation_df)):
+                annotation = ast.literal_eval(annotation_df.iloc[i][0])
+                annotations.append(annotation)            
+                if(not isinstance(sentences.iloc[annotation[0]][0], str) and math.isnan(sentences.iloc[annotation[0]][0])):
+                    #print(sentences.iloc[annotation[0]][0], annotation)
+                    return None
             return [annotations, sentences]
         return None
     
