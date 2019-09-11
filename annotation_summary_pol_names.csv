@@ -1,0 +1,999 @@
+,BD,BP,PR,SP,CH,ED,SENT,NAME
+0,0,5,0,0,0,0,38,Alexander Ankvab
+1,2,2,0,0,0,0,72,Raul Khajimba
+2,2,4,0,0,0,0,44,Sergei Bagapsh
+3,0,4,0,0,0,0,47,Vladislav Ardzinba
+4,1,5,0,0,0,0,8,Abdul Rahim Hatif
+5,0,20,0,4,2,0,102,Ashraf Ghani
+6,2,2,0,0,0,0,287,Babrak Karmal
+7,1,19,0,0,3,0,57,Burhanuddin Rabani
+8,2,51,0,0,3,0,287,Hafizullah Amin
+9,0,0,0,0,0,0,8,Haji Mohammad Chamkani
+10,2,68,0,1,3,0,291,Hamid Karzai
+11,1,37,0,0,0,0,260,Mohammad Najibullah
+12,2,17,0,0,0,0,147,Nur Muhammad Taraki
+13,1,18,0,0,0,0,39,Sibghatullah Mojaddedi
+14,0,0,0,0,0,0,47,Alfred Moisiu
+15,1,10,0,0,0,0,34,Bamir Topi
+16,2,11,0,1,0,0,28,Bujar Nishani
+17,1,26,0,2,0,0,91,Fatos Nano
+18,2,21,0,3,5,0,51,Ilir Meta
+19,2,8,0,0,0,0,21,Pandeli Majko
+20,0,3,0,0,0,0,17,Rexhep Meidani
+21,1,1,0,2,0,0,97,Sali Berisha
+22,2,4,0,0,0,0,151,Abdelaziz Bouteflika
+23,2,0,0,0,0,0,15,Abdelkader Bensalah
+24,1,0,0,0,0,0,5,Abdelmalek Benhabyles
+25,0,0,0,0,0,0,13,Ali Kafi
+26,2,4,0,0,0,0,28,Chadli Bendjedid
+27,2,0,0,1,0,0,61,Houari Boumediene
+28,1,2,0,0,0,0,16,Liamine Zéroual
+29,0,2,0,1,0,0,40,Mohamed Boudiaf
+30,0,0,0,1,0,0,9,Rabah Bitat
+31,1,25,0,8,18,0,86,José Eduardo dos Santos
+32,1,5,0,1,0,0,33,João Lourenço
+33,1,0,0,0,0,0,9,Lúcio Lara
+34,1,0,0,2,0,0,98,Adolfo Rodríguez Saá
+35,2,2,0,0,0,0,19,Alejandro Agustín Lanusse
+36,0,0,0,0,0,0,4,Alfredo Oscar Saint Jean
+37,1,0,0,3,0,0,243,Arturo Frondizi
+38,1,6,0,3,0,0,91,Arturo Umberto Illia
+39,1,0,0,0,0,0,8,Carlos Lacoste
+40,1,12,0,1,2,0,263,Carlos Menem
+41,2,33,0,23,1,0,375,Cristina Fernández de Kirchner
+42,0,1,0,3,0,0,165,Eduardo Duhalde
+43,2,1,0,0,0,0,11,Eduardo Lonardi
+44,1,3,0,1,2,0,169,Fernando de la Rúa
+45,1,4,0,0,0,0,33,Héctor José Cámpora
+46,1,1,0,9,0,0,132,Isabel Martínez de Perón
+47,1,3,0,1,21,0,148,Jorge Rafael Videla
+48,1,0,0,0,0,0,9,José María Guido
+49,0,0,0,2,0,0,27,Juan Carlos Onganía
+50,2,0,0,39,0,0,520,Juan Perón
+51,1,0,0,2,0,0,57,Leopoldo Galtieri
+52,1,0,5,2,0,2,320,Mauricio Macri
+53,2,0,0,19,0,0,336,Néstor Kirchner
+54,1,0,0,0,0,0,43,Pedro Eugenio Aramburu
+55,1,3,0,0,0,0,13,Raúl Alberto Lastiri
+56,2,26,0,4,8,0,304,Raúl Alfonsín
+57,1,0,0,1,1,0,52,Reynaldo Bignone
+58,2,1,0,0,0,0,16,Roberto Eduardo Viola
+59,0,0,0,1,3,0,8,Roberto M. Levingston
+60,1,3,0,1,0,0,52,Armen Sarkissian
+61,1,2,0,1,1,0,111,Levon Ter-Petrossian
+62,1,3,0,1,5,0,70,Robert Kocharyan
+63,2,4,0,2,0,0,123,Serzh Sargsyan
+64,1,2,0,0,0,0,38,Adolf Schärf
+65,1,11,4,1,0,0,155,Alexander Van der Bellen
+66,0,0,0,0,0,0,85,Emperor of Austria
+67,0,0,0,0,0,0,10,Franz Jonas
+68,0,1,0,1,0,0,27,Heinz Fischer
+69,1,1,0,0,0,0,54,Karl Renner
+70,1,8,0,0,0,0,32,Karl Seitz
+71,2,1,0,1,1,0,143,Kurt Waldheim
+72,0,0,0,0,0,0,37,Leopold Figl
+73,1,1,0,0,0,0,22,Michael Hainisch
+74,1,2,0,1,0,0,29,Rudolf Kirchschläger
+75,1,0,0,0,0,0,20,Theodor Körner (Austrian president)
+76,1,7,0,1,0,0,23,Thomas Klestil
+77,0,1,0,0,0,0,35,Wilhelm Miklas
+78,0,0,0,0,0,0,35,Abulfaz Elchibey
+79,1,4,0,1,0,0,17,Ayaz Mutallibov
+80,0,15,0,2,4,0,119,Heydar Aliyev
+81,2,28,0,3,9,0,337,Ilham Aliyev
+82,1,2,0,1,0,0,17,Isa Gambar
+83,1,1,0,0,2,0,37,A. Q. M. Badruddoza Chowdhury
+84,1,1,0,0,0,0,28,Abdul Hamid (politician)
+85,2,1,0,0,0,0,24,Fakhruddin Ahmed
+86,1,0,0,0,0,0,7,Fazlul Haque (judge)
+87,1,3,0,6,0,0,212,Hussain Muhammad Ershad
+88,2,4,0,1,0,0,73,Iajuddin Ahmed
+89,0,2,0,0,8,0,163,Khaleda Zia
+90,2,0,0,0,0,0,12,Latifur Rahman
+91,0,1,0,0,0,0,27,Muhammad Jamiruddin Sircar
+92,1,0,0,2,0,0,10,Rowshan Ershad
+93,2,1,0,0,0,0,37,Shahabuddin Ahmed
+94,2,2,4,4,4,0,214,Sheikh Hasina
+95,2,2,0,3,0,0,70,Zillur Rahman
+96,1,4,0,3,9,0,227,Alexander Lukashenko
+97,1,0,0,0,0,0,11,Christophe Soglo
+98,1,49,0,0,0,0,335,Hubert Maga
+99,2,22,0,0,0,0,154,Justin Ahomadégbé-Tomêtin
+100,1,2,0,0,0,0,83,Mathieu Kérékou
+101,1,2,0,1,0,0,35,Patrice Talon
+102,2,29,0,0,0,0,174,Sourou-Migan Apithy
+103,0,2,0,1,0,0,41,Thomas Boni Yayi
+104,1,5,0,0,0,0,15,Alberto Natusch
+105,1,10,0,0,0,0,37,Carlos Mesa
+106,0,2,0,0,0,0,17,Celso Torrelio
+107,2,1,0,0,0,0,17,David Padilla
+108,1,2,0,0,0,0,17,Eduardo Rodríguez
+109,0,0,1,0,0,0,405,Evo Morales
+110,1,31,0,0,0,0,138,Gonzalo Sánchez de Lozada
+111,0,8,0,0,0,0,17,Guido Vildoso
+112,1,5,0,0,0,0,65,Hernán Siles Zuazo
+113,1,5,0,0,0,0,86,Hugo Banzer
+114,1,5,0,0,0,0,71,Jaime Paz Zamora
+115,2,2,0,0,0,0,23,Juan Pereda
+116,1,9,0,0,0,0,32,Lidia Gueiler
+117,1,6,0,0,0,0,43,Luis García Meza
+118,0,4,0,0,0,0,64,Víctor Paz Estenssoro
+119,2,7,0,0,0,0,36,Wálter Guevara
+120,1,0,0,1,0,0,23,Festus Mogae
+121,0,1,4,0,0,0,66,Ian Khama
+122,1,3,0,1,0,0,23,Mokgweetsi Masisi
+123,2,5,0,1,0,0,52,Quett Masire
+124,1,14,0,4,6,0,107,Seretse Khama
+125,2,1,0,1,0,0,66,Arthur da Costa e Silva
+126,0,2,0,0,0,0,32,Brazilian Military Junta
+127,2,3,0,0,0,0,22,Café Filho
+128,1,0,0,0,0,0,6,Carlos Luz
+129,2,41,0,21,20,0,500,Dilma Rousseff
+130,1,1,0,0,0,0,47,Emílio Garrastazu Médici
+131,1,15,0,1,4,0,68,Ernesto Geisel
+132,1,13,0,0,0,0,141,Fernando Collor de Mello
+133,1,11,0,2,0,0,99,Fernando Henrique Cardoso
+134,2,3,0,3,0,0,267,Getúlio Vargas
+135,1,2,0,2,0,0,59,Humberto de Alencar Castelo Branco
+136,1,0,0,0,0,0,65,Itamar Franco
+137,2,7,0,4,12,1,341,Jair Bolsonaro
+138,1,10,0,2,32,0,141,José Sarney
+139,1,6,0,0,0,0,38,João Figueiredo
+140,1,0,0,0,0,0,101,Juscelino Kubitschek
+141,2,2,0,1,0,0,83,Jânio Quadros
+142,1,2,0,3,1,0,301,Luiz Inácio Lula da Silva
+143,1,7,0,15,0,0,152,Michel Temer
+144,1,5,0,0,0,0,22,Nereu Ramos
+145,1,2,0,0,0,0,16,Pascoal Ranieri Mazzilli
+146,2,8,0,1,3,0,77,Georgi Parvanov
+147,2,16,0,1,0,0,65,Petar Stoyanov
+148,1,7,0,1,0,0,32,Rosen Plevneliev
+149,1,5,0,2,0,0,31,Rumen Radev
+150,0,0,0,1,2,0,34,Zhelyu Zhelev
+151,0,0,0,1,0,0,20,Gilbert Diendéré
+152,2,2,0,1,0,0,32,Michel Kafando
+153,1,3,0,1,1,0,34,Roch Marc Christian Kaboré
+154,0,0,0,0,0,0,19,Domitien Ndayizeye
+155,1,1,0,0,0,0,23,Pierre Buyoya
+156,1,24,0,0,0,0,92,Pierre Nkurunziza
+157,1,0,0,0,0,0,8,Sylvestre Ntibantunganya
+158,1,2,0,0,0,0,131,Ahmadou Ahidjo
+159,1,1,0,6,0,0,119,Paul Biya
+160,1,1,0,1,0,0,22,António Mascarenhas Monteiro
+161,1,3,0,1,0,0,19,Aristides Pereira
+162,1,9,0,1,0,0,17,Jorge Carlos Fonseca
+163,0,2,0,1,0,0,33,Pedro Pires
+164,1,0,0,0,0,0,36,Abel Goumba
+165,1,2,0,0,0,0,13,Alexandre-Ferdinand Nguendet
+166,0,0,0,0,0,0,27,Catherine Samba-Panza
+167,1,3,0,0,0,0,12,Célestin Gaombalet
+168,0,7,0,2,0,0,41,Faustin-Archange Touadéra
+169,0,0,0,0,0,0,36,Goukouni Oueddei
+170,1,1,0,0,0,0,133,Hissène Habré
+171,1,0,0,2,4,0,112,Idriss Deby
+172,1,0,0,0,0,0,33,Lol Mahamat Choua
+173,1,57,0,2,0,3,282,Michelle Bachelet
+174,0,0,0,3,0,0,190,Sebastián Piñera
+175,0,5,0,0,0,0,37,Andrés Pastrana Arango
+176,1,2,0,0,0,0,45,César Gaviria
+177,1,6,0,2,10,0,67,Ernesto Samper
+178,1,11,0,2,0,0,35,Iván Duque
+179,2,3,0,0,4,0,120,Juan Manuel Santos Calderón
+180,1,61,0,2,0,0,340,Álvaro Uribe
+181,0,6,0,0,0,0,22,Ahmed Abdallah Mohamed Sambi
+182,0,3,0,0,0,0,15,Azali Assoumani
+183,1,5,0,1,0,0,12,Ikililou Dhoinine
+184,0,3,0,1,0,0,19,Abel Pacheco
+185,1,0,0,1,0,0,33,Carlos Alvarado Quesada
+186,1,2,0,0,0,0,45,César Gaviria
+187,0,16,0,6,0,0,73,Laura Chinchilla
+188,1,18,0,0,0,0,105,Luis Guillermo Solís
+189,1,0,0,0,0,3,86,Miguel Ángel Rodríguez
+190,1,0,0,0,0,0,63,Óscar Arias
+191,1,10,0,1,0,0,95,Ivo Josipović
+192,2,3,0,3,0,5,130,Kolinda Grabar-Kitarović
+193,1,6,0,1,0,0,124,Stjepan Mesić
+194,1,0,0,0,0,0,17,Zlatko Tomčić
+195,0,4,0,2,0,0,33,Miguel Díaz-Canel
+196,1,0,0,0,0,0,64,Demetris Christofias
+197,1,1,0,1,0,0,28,George Vasiliou
+198,1,2,0,1,0,0,47,Glafcos Clerides
+199,1,1,0,0,0,0,131,Makarios III
+200,1,0,0,1,0,0,42,Nicos Anastasiades
+201,1,1,0,0,2,0,47,Spyros Kyprianou
+202,0,0,0,0,0,0,57,Tassos Papadopoulos
+203,1,2,0,3,2,0,216,Miloš Zeman
+204,0,14,0,7,0,0,190,Václav Havel
+205,1,8,0,1,12,0,194,Václav Klaus
+206,2,1,2,0,0,0,45,Félix Tshisekedi
+207,2,1,0,1,0,0,94,Joseph Kabila
+208,6,1,0,0,1,0,72,Joseph Kasa-Vubu
+209,1,1,0,0,3,0,57,Laurent-Désiré Kabila
+210,1,3,0,2,0,0,342,Mobutu Sese Seko
+211,0,1,0,1,0,0,40,Hassan Gouled Aptidon
+212,0,2,0,0,0,0,34,Ismaïl Omar Guelleh
+213,0,0,0,0,0,0,43,Charles Savarin
+214,1,0,0,0,0,0,13,Eliud Williams
+215,1,0,0,0,0,0,15,Nicholas Liverpool
+216,0,8,0,1,0,0,56,Danilo Medina
+217,2,4,0,1,3,0,55,Hipólito Mejía
+218,0,5,0,1,0,0,64,Leonel Fernandez
+219,0,5,0,1,0,0,64,Leonel Fernández
+220,1,3,0,0,0,0,40,Estanislau da Silva
+221,1,1,0,1,0,0,41,Fernando de Araújo (East Timorese politician)
+222,0,1,0,0,0,0,18,Francisco Guterres
+223,1,7,0,3,0,0,105,José Ramos-Horta
+224,0,1,0,0,0,0,39,Mari Alkatiri
+225,2,1,0,0,0,0,10,Rui Maria de Araújo
+226,0,0,0,1,0,0,40,Taur Matan Ruak
+227,0,0,0,0,0,0,6,Vicente Guterres
+228,1,7,0,5,0,0,84,Xanana Gusmão
+229,1,11,0,0,0,0,62,Abdalá Bucaram
+230,1,5,0,0,0,0,14,Alfredo Palacio
+231,2,5,0,0,0,0,12,Alfredo Poveda
+232,0,6,0,0,0,0,10,Carlos Julio Arosemena Monroy
+233,1,2,1,1,0,0,10,Clemente Yerovi
+234,1,3,0,0,0,0,9,Fabián Alarcón
+235,1,1,0,0,0,0,5,Guillermo Rodríguez (politician)
+236,1,7,0,0,0,0,19,Gustavo Noboa
+237,2,9,0,3,0,0,80,Jaime Roldós Aguilera
+238,1,8,0,0,0,0,26,Jamil Mahuad
+239,2,10,0,1,0,0,58,José María Velasco Ibarra
+240,1,26,0,0,0,0,79,Lenín Moreno
+241,2,6,0,4,0,0,29,León Febres Cordero
+242,3,24,0,0,0,0,75,Lucio Gutiérrez
+243,1,9,0,0,0,0,15,Osvaldo Hurtado
+244,1,8,0,0,0,0,33,Otto Arosemena Gómez
+245,1,105,0,2,0,0,460,Rafael Correa
+246,1,1,0,0,0,0,3,Ramón Castro Jijón
+247,1,6,0,1,0,0,16,Rodrigo Borja Cevallos
+248,1,3,0,0,0,0,11,Rosalía Arteaga
+249,2,2,0,2,0,0,61,Sixto Durán Ballén
+250,0,2,0,0,0,0,7,Telmo Vargas
+251,2,106,0,2,0,0,292,Abdel Fattah el-Sisi
+252,1,8,0,0,0,0,26,Adly Mansour
+253,1,0,0,0,0,0,9,Farouk Sultan
+254,0,0,0,0,0,0,6,Maher El-Beheiry
+255,1,2,0,1,0,0,59,Alfredo Cristiani
+256,1,5,0,1,0,0,49,Antonio Saca
+257,1,2,0,0,0,0,17,Armando Calderón Sol
+258,2,10,0,1,1,0,59,Francisco Flores Pérez
+259,1,0,0,0,0,0,87,José Napoleón Duarte
+260,1,15,0,1,0,0,47,Mauricio Funes
+261,1,4,0,0,0,0,43,Salvador Sánchez Cerén
+262,1,5,0,0,0,0,9,Álvaro Magaña
+263,0,0,0,0,1,0,67,Francisco Macías Nguema
+264,0,0,0,0,2,0,113,Teodoro Obiang Nguema Mbasogo
+265,2,15,0,2,0,0,58,Isaias Afwerki
+266,0,0,0,1,0,0,37,Arnold Rüütel
+267,1,3,0,1,0,0,41,Kersti Kaljulaid
+268,0,4,0,0,11,0,411,Konstantin Päts
+269,1,4,0,4,0,0,96,Lennart Meri
+270,1,1,0,4,0,0,68,Toomas Hendrik Ilves
+271,0,5,0,0,0,0,28,Girma Wolde-Giorgis
+272,0,0,0,2,0,0,132,Meles Zenawi
+273,0,0,0,0,0,0,12,Mulatu Teshome
+274,0,2,0,3,0,0,20,Negasso Gidada
+275,1,9,0,0,0,1,20,Sahle-Work Zewde
+276,2,2,0,0,0,0,24,Tamirat Layne
+277,1,1,0,0,0,0,29,Teferra Wolde-Semait
+278,1,2,0,0,0,0,22,Tesfaye Dinka
+279,0,1,0,0,0,0,4,Bailey Olter
+280,1,1,0,0,0,0,3,Jacob Nena
+281,2,7,0,1,0,0,35,John Haglelgam
+282,1,4,0,1,0,0,21,Joseph Urusemal
+283,1,2,0,0,0,0,5,Leo Falcam
+284,0,1,0,1,0,0,25,Manny Mori
+285,0,0,0,0,0,0,11,Peter M. Christian
+286,0,13,0,1,0,0,40,Tosiwo Nakayama
+287,0,1,0,2,0,0,233,Carl Gustaf Emil Mannerheim
+288,1,0,0,0,0,0,105,Juho Kusti Paasikivi
+289,1,1,0,1,0,0,83,Kaarlo Juho Ståhlberg
+290,1,2,0,1,0,0,51,Kyösti Kallio
+291,1,1,0,1,0,0,51,Lauri Kristian Relander
+292,1,20,0,1,3,0,129,Martti Ahtisaari
+293,1,7,0,2,0,0,96,Mauno Koivisto
+294,1,1,0,1,6,0,84,Pehr Evind Svinhufvud
+295,1,1,0,0,0,0,181,Risto Ryti
+296,1,2,0,3,0,0,95,Sauli Niinistö
+297,2,5,0,2,0,0,124,Tarja Halonen
+298,1,1,0,1,5,0,161,Urho Kekkonen
+299,0,1,0,0,0,0,16,Albert Sarraut
+300,0,205,0,2,12,0,1164,Charles de Gaulle
+301,1,56,1,3,0,0,488,Emmanuel Macron
+302,2,18,0,0,0,0,155,François Hollande
+303,1,49,0,1,4,0,500,François Mitterrand
+304,1,10,0,1,2,0,65,Georges Pompidou
+305,1,24,0,3,6,0,332,Jacques Chirac
+306,0,18,0,0,0,0,110,Léon Blum
+307,1,18,0,9,5,0,346,Nicolas Sarkozy
+308,1,4,0,0,1,0,33,René Coty
+309,2,1,0,1,7,0,209,Valéry Giscard d'Estaing
+310,1,12,0,0,0,0,46,Vincent Auriol
+311,0,18,0,0,2,0,96,Édouard Daladier
+312,0,0,0,2,4,0,79,Ali Bongo Ondimba
+313,0,1,0,0,0,0,34,Didjob Divungi Di Ndinge
+314,0,0,0,1,0,0,228,Léon M'ba
+315,0,40,0,8,5,0,228,Omar Bongo
+316,1,5,0,0,0,0,30,Rose Francine Rogombé
+317,0,7,0,3,0,0,85,Giorgi Margvelashvili
+318,2,17,0,3,0,0,330,Mikheil Saakashvili
+319,1,1,0,1,0,0,44,Nino Burjanadze
+320,1,8,0,1,0,1,74,Salome Zurabishvili
+321,0,15,0,2,1,0,87,Christian Wulff
+322,1,2,0,1,0,0,205,Frank-Walter Steinmeier
+323,1,13,0,2,0,0,79,Gustav Heinemann
+324,0,0,0,0,0,0,44,Heinrich Lübke
+325,1,0,1,1,2,0,136,Horst Köhler
+326,1,35,0,0,0,0,145,Joachim Gauck
+327,1,14,0,5,3,0,46,Johannes Rau
+328,2,0,0,1,0,0,29,Karl Arnold
+329,1,2,0,1,0,0,31,Karl Carstens
+330,2,3,0,3,0,0,236,Richard von Weizsäcker
+331,0,0,0,2,0,0,55,Roman Herzog
+332,1,10,0,1,0,0,61,Theodor Heuss
+333,1,6,0,0,0,0,35,Walter Scheel
+334,0,1,0,1,0,0,100,Jerry John Rawlings
+335,1,2,0,2,4,0,90,John Agyekum Kufuor
+336,2,0,0,1,4,0,200,John Atta-Mills
+337,1,30,0,1,0,1,110,John Mahama
+338,0,6,0,1,0,4,74,Nana Akufo-Addo
+339,1,9,0,0,0,0,35,Christos Sartzetakis
+340,1,5,0,0,0,0,50,Ioannis Alevras
+341,1,11,0,1,0,0,40,Karolos Papoulias
+342,1,2,0,0,0,0,152,Konstantinos Karamanlis
+343,1,6,0,0,0,0,31,Konstantinos Stephanopoulos
+344,1,4,0,1,0,0,25,Prokopis Pavlopoulos
+345,1,1,0,0,0,0,16,José Mário Vaz
+346,0,0,0,0,0,0,40,Malam Bacai Sanhá
+347,1,0,0,0,0,0,6,Mamadu Ture Kuruma
+348,0,0,0,0,0,0,6,Manuel Serifo Nhamadjo
+349,0,0,0,0,0,0,23,Raimundo Pereira
+350,2,38,0,0,0,0,129,Ahmed Sékou Touré
+351,2,0,0,1,0,0,77,Alpha Condé
+352,0,0,0,1,0,0,110,Lansana Conté
+353,0,1,0,0,0,0,19,Louis Lansana Beavogui
+354,1,0,0,0,0,0,69,Moussa Camara
+355,1,5,0,0,0,0,22,Sékouba Konaté
+356,1,3,0,0,0,0,74,Bharrat Jagdeo
+357,1,2,0,1,0,0,43,David A. Granger
+358,0,3,0,0,0,0,26,Donald Ramotar
+359,0,3,0,9,0,0,53,Janet Jagan
+360,1,0,0,0,0,0,10,Boniface Alexandre
+361,1,13,0,2,0,0,72,Ertha Pascal-Trouillot
+362,1,3,0,0,0,0,15,Hérard Abraham
+363,2,64,0,2,0,0,233,Jean-Bertrand Aristide
+364,0,2,0,1,0,0,17,Jocelerme Privert
+365,0,8,0,1,0,0,33,Jovenel Moïse
+366,0,30,0,0,1,0,138,Michel Martelly
+367,1,6,0,3,0,0,83,René Préval
+368,1,8,0,3,0,0,26,Carlos Roberto Flores
+369,1,10,0,1,0,0,32,Carlos Roberto Reina
+370,0,7,0,0,0,0,18,José Azcona del Hoyo
+371,1,2,0,1,0,0,6,Juan Alberto Melgar Castro
+372,0,9,0,0,0,0,28,Juan Manuel Galvez
+373,0,9,0,2,0,0,52,Juan Orlando Hernández
+374,1,4,0,0,0,0,8,Julio Lozano Díaz
+375,1,4,0,2,0,0,182,Manuel Zelaya
+376,1,0,0,0,0,0,8,Miguel Paz Barahona
+377,0,1,0,0,0,0,21,Oswaldo López Arellano
+378,1,4,0,0,0,0,8,Policarpo Paz García
+379,0,7,0,3,0,0,26,Porfirio Lobo Sosa
+380,2,13,0,0,0,0,41,Rafael Leonardo Callejas
+381,1,4,0,0,0,0,17,Ramón Villeda Morales
+382,1,1,0,1,0,0,24,Ricardo Maduro
+383,1,16,0,1,0,0,68,Roberto Micheletti
+384,0,10,0,0,0,0,18,Roberto Suazo Córdova
+385,1,16,0,0,0,0,76,Tiburcio Carías Andino
+386,0,2,0,0,0,0,6,Vicente Mejía Colindres
+387,1,0,0,1,0,0,12,Vicente Tosta
+388,1,3,0,0,0,0,6,Brunó Ferenc Straub
+389,1,2,0,1,0,0,47,Béla Miklós
+390,1,0,0,1,1,0,54,Ferenc Mádl
+391,1,0,0,0,0,0,13,Ferenc Nagy
+392,1,1,0,0,0,0,106,Ferenc Szálasi
+393,2,7,0,0,0,0,65,Gyula Peidl
+394,1,1,0,0,0,0,25,István Dobi
+395,2,3,0,1,1,0,106,István Friedrich
+396,0,16,0,1,4,0,97,János Áder
+397,1,1,0,0,0,0,40,Károly Huszár
+398,1,1,0,0,0,0,2,Károly Németh
+399,1,2,0,0,0,0,17,Lajos Dinnyés
+400,0,7,0,1,3,0,65,László Kövér
+401,1,2,0,0,0,0,129,László Sólyom
+402,1,3,0,0,1,0,90,Mihály Károlyi
+403,0,3,0,0,34,0,430,Miklós Horthy
+404,1,5,0,0,1,0,13,Mátyás Szűrös
+405,1,0,0,0,0,0,2,Pál Losonczi
+406,2,5,0,1,0,0,61,Pál Schmitt
+407,1,0,0,0,0,0,8,Sándor Garbai
+408,1,1,0,0,6,0,20,Zoltán Tildy
+409,2,14,4,1,9,0,327,Árpád Göncz
+410,2,1,0,0,0,0,112,Christian X of Denmark
+411,0,14,0,1,0,0,58,Guðni Th. Jóhannesson
+412,1,0,0,0,0,0,17,Kristján Eldjárn
+413,0,0,0,3,0,0,40,Sveinn Björnsson
+414,2,11,0,0,0,0,48,Vigdís Finnbogadóttir
+415,0,7,0,3,0,0,25,Ásgeir Ásgeirsson
+416,1,1,0,6,0,0,79,Ólafur Ragnar Grímsson
+417,2,14,0,0,0,0,233,A. P. J. Abdul Kalam
+418,1,4,0,0,0,0,36,B. D. Jatti
+419,2,5,0,0,0,0,31,Fakhruddin Ali Ahmed
+420,1,35,0,2,69,0,208,K. R. Narayanan
+421,1,25,0,1,0,0,73,Mohammad Hidayatullah
+422,0,16,0,5,0,0,115,Neelam Sanjiva Reddy
+423,0,42,0,3,3,0,230,Pranab Mukherjee
+424,0,7,0,3,0,0,64,Pratibha Patil
+425,1,19,0,0,0,0,54,R. Venkataraman
+426,1,11,0,1,0,0,55,Ram Nath Kovind
+427,1,10,0,1,0,0,84,Shankar Dayal Sharma
+428,1,29,0,0,0,0,113,V. V. Giri
+429,0,0,0,0,0,0,40,Zail Singh
+430,1,11,3,1,1,0,328,Abdurrahman Wahid
+431,1,1,0,4,0,0,124,B. J. Habibie
+432,2,44,0,1,7,0,198,Joko Widodo
+433,1,12,0,5,4,0,141,Megawati Soekarnoputri
+434,2,4,0,0,10,0,393,Suharto
+435,0,10,0,23,17,0,496,Sukarno
+436,1,29,0,3,6,0,225,Susilo Bambang Yudhoyono
+437,2,1,0,2,12,0,240,Akbar Hashemi Rafsanjani
+438,1,6,0,1,7,0,383,Ali Khamenei
+439,0,2,0,1,0,0,268,Hassan Rouhani
+440,0,2,0,0,0,0,400,Mahmoud Ahmadinejad
+441,2,3,1,0,0,0,175,Mohammad Khatami
+442,2,3,0,1,16,0,432,Ruhollah Khomeini
+443,2,1,0,0,0,0,169,Ahmed Hassan al-Bakr
+444,1,17,0,1,0,0,34,Barham Salih
+445,1,1,0,1,6,0,37,Fuad Masum
+446,1,19,0,1,3,0,54,Jalal Talabani
+447,1,1,0,3,17,0,463,Saddam Hussein
+448,2,3,0,0,0,0,71,Chaim Herzog
+449,1,2,0,3,2,0,349,Chaim Weizmann
+450,1,2,0,2,0,0,29,Ephraim Katzir
+451,0,1,0,1,0,0,71,Ezer Weizman
+452,1,3,0,2,0,0,150,Moshe Katsav
+453,1,8,0,1,0,1,96,Reuven Rivlin
+454,2,4,0,7,0,0,292,Shimon Peres
+455,1,2,0,1,0,0,52,Yitzhak Ben-Zvi
+456,1,11,0,2,0,0,69,Yitzhak Navon
+457,1,2,0,0,0,0,26,Zalman Shazar
+458,0,3,0,0,0,0,40,Antonio Segni
+459,0,0,0,1,0,0,30,Carlo Azeglio Ciampi
+460,0,0,0,0,0,0,28,Enrico De Nicola
+461,2,6,0,0,2,0,116,Francesco Cossiga
+462,1,9,0,0,0,0,160,Giorgio Napolitano
+463,1,2,0,0,0,0,52,Giovanni Gronchi
+464,1,4,0,0,0,0,21,Giovanni Leone
+465,1,0,0,0,0,0,11,Giuseppe Saragat
+466,1,3,0,0,1,0,26,Luigi Einaudi
+467,2,3,0,0,0,0,36,Oscar Luigi Scalfaro
+468,1,1,0,3,0,0,41,Sandro Pertini
+469,1,4,0,1,2,0,99,Sergio Mattarella
+470,1,1,0,0,0,0,266,Umberto II
+471,2,5,0,1,0,0,67,Kassym-Jomart Tokayev
+472,1,10,0,1,5,0,192,Nursultan Nazarbayev
+473,1,3,0,0,0,0,113,Atifete Jahjaga
+474,1,38,0,1,0,0,57,Behgjet Pacolli
+475,1,3,0,0,0,0,87,Hashim Thaçi
+476,1,11,0,0,0,0,11,Jakup Krasniqi
+477,1,0,0,2,0,0,87,Almazbek Atambayev
+478,1,4,0,1,2,0,62,Askar Akayev
+479,1,0,0,0,0,0,5,Ishenbai Kadyrbekov
+480,2,1,0,2,0,0,77,Kurmanbek Bakiyev
+481,0,3,0,0,0,0,55,Roza Otunbayeva
+482,1,0,0,1,0,0,70,Sooronbay Jeenbekov
+483,2,2,0,0,0,0,35,Andris Bērziņš (Latvian President)
+484,2,18,0,1,0,0,43,Guntis Ulmanis
+485,2,0,0,0,0,0,28,Raimonds Vējonis
+486,0,12,0,1,0,0,67,Vaira Vīķe-Freiberga
+487,1,9,0,1,0,0,32,Valdis Zatlers
+488,2,1,0,1,3,0,41,Elias Hrawi
+489,2,1,0,0,0,0,59,Emile Lahoud
+490,1,0,0,1,0,0,187,Michel Aoun
+491,2,14,0,1,0,0,55,Michel Sleiman
+492,0,0,0,0,0,0,66,Rashid Karami
+493,1,12,0,0,0,0,30,Selim Hoss
+494,0,9,0,0,0,0,58,Alfred Francis Russell
+495,1,0,0,0,0,0,24,Amos Sawyer
+496,0,4,0,0,0,0,27,Anthony William Gardiner
+497,2,2,0,0,0,0,26,Arthur Barclay
+498,1,11,0,0,0,0,33,Charles D.B. King
+499,2,40,0,3,10,0,185,Charles Taylor (Liberia)
+500,2,0,0,0,0,0,16,Daniel Bashiel Warner
+501,1,0,0,0,0,0,27,Daniel E. Howard
+502,0,0,0,0,0,0,7,David D. Kpormakor
+503,1,21,0,0,0,0,68,Edwin Barclay
+504,0,0,0,7,0,0,221,Ellen Johnson Sirleaf
+505,0,4,0,0,0,0,15,Garretson W. Gibson
+506,0,0,0,17,10,0,168,George Weah
+507,1,0,0,0,0,0,26,Gyude Bryant
+508,1,11,0,0,0,0,31,Hilary R. W. Johnson
+509,1,0,0,0,0,0,25,James Spriggs-Payne
+510,0,7,0,0,0,0,19,Joseph James Cheeseman
+511,1,5,0,4,0,0,99,Joseph Jenkins Roberts
+512,1,0,0,0,0,0,27,Moses Blah
+513,0,12,0,0,0,0,29,Ruth Perry
+514,1,14,0,0,0,0,98,Samuel Doe
+515,1,0,0,0,0,0,31,Stephen Allen Benson
+516,1,2,0,0,0,0,27,William D. Coleman (politician)
+517,0,13,0,0,0,0,72,William Tolbert
+518,0,30,0,0,0,0,83,William Tubman
+519,0,0,0,0,0,0,31,Wilton G. S. Sankawulo
+520,1,2,0,0,0,0,18,Artūras Paulauskas
+521,2,5,0,0,0,1,100,Dalia Grybauskaitė
+522,1,2,0,1,0,0,55,Rolandas Paksas
+523,2,1,0,2,0,0,65,Valdas Adamkus
+524,0,0,0,3,0,0,106,Andry Rajoelina
+525,0,18,0,0,0,0,36,Hery Rajaonarimampianina
+526,0,0,0,0,0,0,5,Rivo Rakotovao
+527,0,2,0,2,0,0,73,Bakili Muluzi
+528,0,1,0,4,0,0,95,Bingu wa Mutharika
+529,2,10,0,0,0,0,332,Elizabeth II
+530,0,2,0,0,0,0,287,Hastings Banda
+531,2,2,0,4,0,0,156,Joyce Banda
+532,1,14,0,1,0,0,70,Peter Mutharika
+533,0,10,0,1,0,0,78,Abdulla Yameen
+534,0,9,0,2,0,0,27,Ibrahim Mohamed Solih
+535,0,33,0,0,0,0,174,Mohamed Nasheed
+536,1,18,0,1,3,0,80,Mohammed Waheed Hassan
+537,0,3,0,0,0,0,39,Alpha Oumar Konaré
+538,2,0,0,0,0,0,27,Amadou Sanogo
+539,2,1,0,1,0,0,45,Amadou Toumani Touré
+540,0,2,0,0,0,0,22,Amara Essy
+541,1,1,0,22,0,0,41,Dioncounda Traoré
+542,0,2,0,23,1,0,54,Ibrahim Boubacar Keïta
+543,1,13,0,0,0,0,44,Agatha Barbara
+544,1,0,0,2,0,0,5,Albert Hyzler
+545,1,6,0,1,0,0,13,Anthony Mamo
+546,2,11,0,2,0,0,25,Anton Buttigieg
+547,1,4,0,0,0,0,30,Censu Tabone
+548,1,4,0,4,0,0,111,Eddie Fenech Adami
+549,2,10,0,0,0,0,332,Elizabeth II
+550,1,14,0,2,0,0,39,George Abela
+551,1,1,0,1,0,0,18,George Vella
+552,0,2,0,0,0,0,66,Guido de Marco
+553,1,15,0,0,0,0,47,Marie-Louise Coleiro Preca
+554,1,0,0,0,0,0,12,Paul Xuereb
+555,0,2,0,0,0,0,25,Ugo Mifsud Bonnici
+556,1,6,0,6,0,0,14,Amata Kabua
+557,0,5,0,2,0,0,14,Casten Nemra
+558,2,6,0,1,0,0,26,Christopher Loeak
+559,0,1,0,0,0,0,19,Hilda Heine
+560,0,0,0,0,0,0,3,Imata Kabua
+561,1,5,0,0,0,0,21,Jurelang Zedkaia
+562,0,2,0,0,0,0,7,Kessai Note
+563,0,1,0,1,0,0,7,Kunio Lemari
+564,1,12,0,1,0,0,39,Litokwa Tomeing
+565,1,3,0,0,0,0,9,Ruben Zackhras
+566,0,0,0,1,0,0,34,Ameenah Gurib
+567,0,0,0,0,0,0,6,Barlen Vyapoory
+568,0,9,0,1,0,0,37,Kailash Purryag
+569,0,0,0,1,0,0,14,Monique Ohsan Bellepeau
+570,0,4,0,0,0,0,114,Abelardo L. Rodríguez
+571,1,1,0,2,0,0,142,Adolfo López Mateos
+572,0,25,2,1,0,0,89,Adolfo Ruiz Cortines
+573,2,10,0,11,0,0,40,Adolfo de la Huerta
+574,2,91,2,5,0,2,341,Andrés Manuel López Obrador
+575,2,7,2,1,13,0,279,Carlos Salinas de Gortari
+576,0,4,0,0,0,0,44,Emilio Portes Gil
+577,2,93,0,4,0,0,247,Enrique Peña Nieto
+578,2,5,2,2,0,0,133,Ernesto Zedillo
+579,1,51,2,1,0,0,243,Felipe Calderón
+580,1,4,0,1,0,0,207,Francisco I. Madero
+581,0,1,0,2,0,0,27,Francisco León de la Barra
+582,1,0,0,0,0,0,16,Francisco S. Carvajal
+583,1,19,2,0,6,0,85,Gustavo Díaz Ordaz
+584,1,13,2,3,0,0,49,José López Portillo
+585,2,24,0,3,0,0,138,Luis Echeverría
+586,2,10,0,1,2,0,363,Lázaro Cárdenas
+587,0,0,0,0,0,0,65,Manuel González Flores
+588,1,3,0,1,0,0,48,Manuel Ávila Camacho
+589,0,0,0,0,0,0,110,Miguel Alemán Valdés
+590,1,38,0,0,3,0,157,Miguel de la Madrid
+591,1,4,0,3,0,0,50,Pascual Ortiz Rubio
+592,0,5,0,2,0,0,24,Pedro Lascuráin
+593,0,63,1,5,0,0,249,Plutarco Elías Calles
+594,2,21,2,9,0,0,344,Porfirio Díaz
+595,1,75,0,1,0,0,249,Venustiano Carranza
+596,2,3,0,5,0,0,235,Vicente Fox
+597,0,1,0,1,0,0,138,Victoriano Huerta
+598,1,12,0,0,0,0,240,Álvaro Obregón
+599,2,1,0,2,0,1,105,Igor Dodon
+600,2,1,0,0,0,0,32,Marian Lupu
+601,0,3,0,1,0,0,49,Mihai Ghimpu
+602,1,1,0,0,1,0,28,Mircea Snegur
+603,1,4,0,1,0,0,15,Nicolae Timofti
+604,2,3,0,0,2,0,17,Petru Lucinschi
+605,0,7,0,1,5,0,65,Vladimir Voronin
+606,1,19,0,0,0,0,88,Khaltmaagiin Battulga
+607,0,15,0,1,0,0,59,Nambaryn Enkhbayar
+608,1,1,0,0,0,0,6,Natsagiin Bagabandi
+609,0,1,0,2,0,0,41,Punsalmaagiin Ochirbat
+610,2,124,0,1,0,0,402,Tsakhiagiin Elbegdorj
+611,1,2,0,0,0,0,19,Armando Guebuza
+612,0,0,0,0,0,0,41,Eduardo Mondlane
+613,0,2,0,1,0,0,32,Filipe Nyusi
+614,1,1,0,1,0,0,43,Joaquim Chissano
+615,0,2,0,8,0,0,229,Samora Machel
+616,0,2,0,2,0,0,24,Myint Swe (general)
+617,2,4,0,0,4,0,11,Sai Mauk Kham
+618,0,0,0,0,0,0,12,Tin Aung Myint Oo
+619,0,32,0,4,0,0,84,Hage Geingob
+620,1,0,0,0,0,0,38,Hifikepunye Pohamba
+621,2,52,0,1,9,0,147,Sam Nujoma
+622,1,4,0,1,0,0,20,Baron Waqa
+623,0,1,0,1,1,0,14,Bernard Dowiyogo
+624,0,0,0,0,0,0,37,Freddie Pitcher
+625,1,0,0,0,0,0,16,Hammer DeRoburt
+626,1,19,0,0,0,0,44,Ludwig Scotty
+627,0,0,0,0,0,0,105,Marcus Stephen
+628,0,0,0,0,0,0,33,René Harris
+629,1,17,0,0,0,0,35,Sprent Dabwido
+630,2,3,0,1,0,0,32,Bidhya Devi Bhandari
+631,1,1,1,2,1,0,54,Girija Prasad Koirala
+632,1,18,0,0,0,0,108,Gyanendra of Nepal
+633,0,7,0,0,0,0,33,Ram Baran Yadav
+634,0,18,0,0,0,0,66,Arnoldo Alemán
+635,1,48,0,3,0,0,277,Daniel Ortega
+636,2,8,0,1,0,0,38,Enrique Bolaños
+637,2,28,0,6,0,0,213,Violeta Barrios de Chamorro
+638,1,2,0,0,0,0,23,Ali Saibou
+639,0,4,0,0,0,0,15,Daouda Malam Wanké
+640,1,10,0,0,0,0,38,Hamani Diori
+641,1,2,0,0,0,0,20,Ibrahim Baré Maïnassara
+642,0,0,0,1,0,0,67,Mahamadou Issoufou
+643,1,5,0,0,0,0,47,Mahamane Ousmane
+644,0,0,0,0,0,0,84,Mamadou Tandja
+645,0,4,0,0,0,0,15,Salou Djibo
+646,0,7,0,0,0,0,38,Seyni Kountché
+647,0,11,0,0,1,0,49,Abdulsalam Abubakar
+648,1,2,0,0,0,0,42,Ernest Shonekan
+649,1,32,0,2,0,0,145,Goodluck Jonathan
+650,2,16,0,2,3,0,81,Ibrahim Babangida
+651,2,3,0,0,16,0,288,Muhammadu Buhari
+652,1,3,0,7,1,0,192,Olusegun Obasanjo
+653,1,5,0,2,0,0,136,Sani Abacha
+654,0,16,0,1,0,0,103,Umaru Musa Yar'Adua
+655,0,2,0,0,0,0,41,Boris Trajkovski
+656,1,5,0,0,0,0,18,Branko Crvenkovski
+657,0,0,0,1,0,2,49,Gjorge Ivanov
+658,1,4,0,1,0,0,31,Kiro Gligorov
+659,0,1,0,2,0,0,15,Derviş Eroğlu
+660,2,1,0,1,0,0,39,Mehmet Ali Talat
+661,0,0,0,4,0,0,62,Mustafa Akıncı
+662,1,1,1,1,0,1,50,Rauf Denktaş
+663,1,42,0,1,0,0,77,Arif Alvi
+664,1,11,4,12,12,0,345,Asif Ali Zardari
+665,1,3,0,0,4,4,83,Farooq Leghari
+666,1,4,0,0,0,0,30,Mamnoon Hussain
+667,1,8,0,0,0,0,24,Muhammad Mian Soomro
+668,0,0,0,0,0,0,34,Muhammad Rafiq Tarar
+669,2,5,0,2,0,0,447,Pervez Musharraf
+670,1,4,1,0,0,0,16,Wasim Sajjad
+671,1,1,0,0,0,0,13,Johnson Toribiong
+672,0,0,2,0,0,0,48,Tommy Remengesau
+673,1,9,0,1,0,0,61,Ernesto Pérez Balladares
+674,1,3,0,2,0,0,82,Guillermo Endara
+675,0,6,0,1,0,0,19,Juan Carlos Varela
+676,1,83,0,1,0,0,394,Manuel Noriega
+677,1,12,0,1,0,0,57,Martín Torrijos
+678,1,14,0,5,1,0,70,Mireya Moscoso
+679,1,28,0,0,0,0,104,Ricardo Martinelli
+680,2,6,0,0,0,0,34,Federico Franco
+681,0,0,0,0,0,0,79,Fernando Lugo
+682,0,7,0,0,0,0,54,Horacio Cartes
+683,1,5,0,1,0,0,19,Mario Abdo Benítez
+684,1,36,0,1,0,0,150,Alan Garcia
+685,1,36,0,1,0,0,150,Alan García
+686,2,67,0,2,4,0,318,Alberto Fujimori
+687,0,56,0,2,0,0,312,Alejandro Toledo
+688,1,15,0,0,0,0,53,Martín Vizcarra
+689,0,16,0,0,0,0,135,Ollanta Humala
+690,0,34,0,3,1,0,127,Pedro Pablo Kuczynski
+691,0,3,0,0,0,0,61,Valentín Paniagua
+692,2,0,5,0,0,0,166,Benigno Aquino III
+693,2,15,0,1,5,0,41,Feliciano Belmonte Jr.
+694,2,15,0,1,5,0,41,"Feliciano Belmonte, Jr."
+695,1,21,0,8,1,7,183,Gloria Macapagal Arroyo
+696,1,6,0,2,0,0,102,"Jose de Venecia, Jr."
+697,2,0,0,2,0,0,115,Pantaleon Alvarez
+698,1,7,0,0,1,0,35,Prospero Nograles
+699,2,3,1,3,13,1,677,Rodrigo Duterte
+700,1,14,0,1,0,0,54,Andrzej Duda
+701,1,2,0,1,0,0,40,Arvid Posse
+702,1,8,0,2,7,0,86,Bronisław Komorowski
+703,0,1,0,1,0,0,33,Carl Gustaf Ekman
+704,1,1,0,1,0,0,11,Carl Johan Thyselius
+705,0,1,0,1,0,0,34,Carl Swartz
+706,1,4,0,0,0,0,12,Christian Lundeberg
+707,1,25,0,0,0,1,152,Donald Tusk
+708,1,5,0,0,0,0,30,Erik Gustaf Boström
+709,0,9,0,0,0,1,53,Ewa Kopacz
+710,1,1,0,0,0,0,15,Felix Hamrin
+711,1,36,0,2,0,0,213,Fredrik Reinfeldt
+712,1,1,1,1,10,0,83,Gillis Bildt
+713,1,11,0,0,0,0,29,Grzegorz Schetyna
+714,0,2,0,0,0,0,12,Gustaf Åkerhielm
+715,1,19,0,4,0,0,99,Göran Persson
+716,1,13,0,1,4,0,114,Herman Van Rompuy
+717,0,4,0,0,0,0,28,Hjalmar Branting
+718,1,0,0,0,0,0,27,Hjalmar Hammarskjöld
+719,0,0,0,1,0,0,40,Ingvar Carlsson
+720,1,5,0,0,0,0,19,Johan Ramstedt
+721,1,0,0,0,0,0,14,Karl Staaff
+722,1,1,0,1,0,0,24,Louis Gerhard De Geer
+723,1,1,0,0,0,0,31,Nils Edén
+724,0,8,0,3,0,0,124,Olof Palme
+725,0,0,0,0,0,0,41,Per Albin Hansson
+726,0,1,0,0,0,0,34,Rickard Sandler
+727,0,0,0,1,0,0,31,Robert Themptander
+728,0,10,0,1,0,0,63,Tage Erlander
+729,0,0,0,1,5,0,45,Américo Tomás
+730,1,0,0,0,4,0,14,António José de Almeida
+731,1,0,0,0,4,0,16,António Ramalho Eanes
+732,1,1,0,4,0,0,39,António de Spínola
+733,1,17,0,4,0,0,88,Aníbal Cavaco Silva
+734,1,3,0,1,0,0,31,Bernardino Machado
+735,1,5,0,1,0,0,21,Francisco Craveiro Lopes
+736,1,3,0,1,0,0,17,Francisco da Costa Gomes
+737,2,11,0,3,2,0,60,Jorge Sampaio
+738,1,1,0,1,0,0,15,José Mendes Cabeçadas
+739,0,2,0,1,0,0,13,João do Canto e Castro
+740,1,3,0,1,0,0,23,Manuel Gomes da Costa
+741,1,11,0,1,0,0,41,Manuel Teixeira Gomes
+742,1,13,0,3,0,0,65,Marcelo Rebelo de Sousa
+743,0,0,0,2,5,0,78,Mário Soares
+744,0,6,0,2,0,0,94,Sidónio Pais
+745,1,2,0,1,0,0,34,Óscar Carmona
+746,2,2,0,0,0,0,13,Arkadi Ghukasyan
+747,1,2,0,0,0,0,17,Bako Sahakyan
+748,0,8,0,0,0,0,16,Leonard Petrosyan
+749,1,2,0,1,1,0,111,Levon Ter-Petrossian
+750,1,3,0,1,5,0,70,Robert Kocharyan
+751,2,2,0,0,0,0,38,Cearbhall Ó Dálaigh
+752,1,5,0,2,0,0,90,Douglas Hyde
+753,1,1,4,5,2,0,60,Erskine Hamilton Childers
+754,0,11,1,5,0,0,170,Mary McAleese
+755,1,13,2,1,0,0,292,Mary Robinson
+756,2,2,1,2,2,0,128,Michael D. Higgins
+757,0,3,2,2,0,0,128,Patrick Hillery
+758,1,11,2,8,0,0,131,Seán T. O'Kelly
+759,2,1,1,2,27,2,365,Éamon de Valera
+760,1,2,0,0,0,0,91,Denis Sassou Nguesso
+761,0,1,0,0,0,0,41,Pascal Lissouba
+762,1,55,0,1,0,0,119,Gheorghe Gheorghiu-Dej
+763,1,1,0,2,0,0,112,Ion Iliescu
+764,0,36,0,1,0,0,136,Klaus Iohannis
+765,1,3,0,11,11,0,410,Nicolae Ceaușescu
+766,1,41,0,5,6,0,307,Traian Băsescu
+767,2,89,0,2,0,0,373,Dmitry Medvedev
+768,0,13,0,1,7,2,550,Vladimir Putin
+769,1,0,0,0,0,0,31,Grégoire Kayibanda
+770,0,3,0,3,0,0,61,Juvénal Habyarimana
+771,1,6,0,0,0,0,31,Pasteur Bizimungu
+772,2,2,0,1,13,0,472,Paul Kagame
+773,0,7,0,0,0,0,17,Théodore Sindikubwabo
+774,2,3,0,0,0,0,22,Brahim Ghali
+775,1,4,0,0,0,0,53,El-Ouali Mustapha Sayed
+776,0,0,0,0,0,0,12,Khatri Addouh
+777,2,5,0,0,0,0,30,Mahfoud Ali Beiba
+778,1,11,0,0,0,0,28,Mohamed Abdelaziz (Sahrawi politician)
+779,0,1,0,0,0,0,52,Abdou Diouf
+780,1,1,0,1,5,0,89,Abdoulaye Wade
+781,1,2,0,0,0,0,38,Adolf Schärf
+782,2,10,0,2,0,0,57,Boutros Boutros-Ghali
+783,0,0,0,0,0,0,85,Emperor of Austria
+784,0,0,0,0,0,0,10,Franz Jonas
+785,2,9,0,0,0,0,37,Javier Pérez de Cuéllar
+786,1,1,0,0,0,0,54,Karl Renner
+787,1,8,0,0,0,0,32,Karl Seitz
+788,2,1,0,1,1,0,143,Kurt Waldheim
+789,0,0,0,0,0,0,37,Leopold Figl
+790,0,14,0,1,0,0,86,Macky Sall
+791,1,1,0,0,0,0,22,Michael Hainisch
+792,1,2,0,1,0,0,29,Rudolf Kirchschläger
+793,1,0,0,0,0,0,20,Theodor Körner (Austrian president)
+794,0,1,0,0,0,0,35,Wilhelm Miklas
+795,0,76,0,1,0,0,223,Aleksandar Vučić
+796,2,2,0,0,0,0,23,Slavica Đukić Dejanović
+797,1,3,0,1,0,0,39,Sulejman Ugljanin
+798,1,11,0,1,0,0,144,Tomislav Nikolić
+799,0,0,0,0,0,0,77,Velimir Ilić
+800,1,1,0,0,0,0,26,Danny Faure
+801,0,0,0,0,0,0,37,France-Albert René
+802,1,10,0,0,0,0,31,James Mancham
+803,0,9,0,0,0,0,33,James Michel
+804,1,0,0,1,0,1,71,Halimah Yacob
+805,1,0,0,4,0,0,95,Ong Teng Cheong
+806,2,30,0,2,2,0,95,S. R. Nathan
+807,1,41,0,2,0,0,121,Tony Tan
+808,2,16,0,2,0,0,41,Wee Kim Wee
+809,0,2,0,0,0,0,21,Yeoh Ghim Seng
+810,1,2,0,2,0,0,34,Andrej Kiska
+811,1,3,0,1,0,0,54,Ivan Gašparovič
+812,1,4,0,0,0,0,22,Michal Kováč
+813,0,4,0,1,0,0,17,Rudolf Schuster
+814,0,1,0,0,0,0,90,Borut Pahor
+815,1,4,0,1,0,0,71,Danilo Türk
+816,0,4,0,0,0,0,88,Janez Drnovšek
+817,1,10,0,19,0,0,43,Milan Kučan
+818,1,1,0,0,0,0,29,Abdiqasim Salad Hassan
+819,0,1,0,1,0,0,136,Abdullahi Yusuf Ahmed
+820,1,1,0,2,0,2,334,Hassan Sheikh Mohamud
+821,1,6,0,0,0,1,115,Mohamed Abdullahi Mohamed
+822,3,1,0,0,0,0,92,Sharif Sheikh Ahmed
+823,0,0,0,0,0,0,8,Bernard Ngoepe
+824,0,28,1,1,0,0,170,Cyril Ramaphosa
+825,1,34,0,5,1,0,389,Jacob Zuma
+826,2,12,0,4,0,0,140,Kgalema Motlanthe
+827,1,50,4,8,0,0,465,Thabo Mbeki
+828,1,1,0,0,0,0,18,Choi Kyu-hah
+829,2,3,0,0,0,0,184,Chun Doo-hwan
+830,2,0,0,5,0,0,96,Kim Dae-jung
+831,2,1,0,3,0,0,56,Kim Young-sam
+832,2,1,0,6,0,0,287,Lee Myung-bak
+833,1,8,0,16,0,1,149,Moon Jae-in
+834,0,0,0,25,145,0,258,Park Chung-hee
+835,0,23,7,0,0,0,273,Park Geun-hye
+836,2,1,0,0,0,0,266,Roh Moo-hyun
+837,2,6,0,8,0,0,58,Roh Tae-woo
+838,2,44,0,1,106,0,197,Syngman Rhee
+839,1,1,0,0,0,0,25,Yun Posun
+840,0,3,0,0,0,0,22,Anatoliy Bibilov
+841,1,3,0,0,0,0,9,Aslanbek Bulatsev
+842,1,1,0,0,0,0,16,Leonid Tibilov
+843,0,1,0,0,0,0,25,Vadim Brovtsev
+844,2,0,0,0,0,0,11,Abdel Rahman Swar al-Dahab
+845,0,0,0,0,0,0,20,Ahmed al-Mirghani
+846,0,24,0,0,0,0,78,Gaafar Nimeiry
+847,0,2,0,0,0,0,62,Ismail al-Azhari
+848,0,1,0,2,0,0,286,Omar al-Bashir
+849,0,27,0,0,0,0,88,Salva Kiir Mayardit
+850,2,6,2,4,0,0,118,Chandrika Kumaratunga
+851,2,3,0,0,0,0,38,Dingiri Banda Wijetunga
+852,1,9,0,1,0,0,123,Junius Richard Jayewardene
+853,0,0,0,2,9,0,275,Mahinda Rajapaksa
+854,2,2,0,1,12,0,254,Maithripala Sirisena
+855,0,0,0,1,2,0,75,Ranasinghe Premadasa
+856,2,8,0,1,0,0,37,William Gopallawa
+857,0,2,0,0,0,0,21,Ahmad Shukeiri
+858,0,1,0,0,119,0,206,Mahmoud Abbas
+859,1,1,0,0,0,0,9,Rawhi Fattouh
+860,2,1,0,0,0,0,7,Yahya Hammuda
+861,0,24,0,5,0,0,450,Yasser Arafat
+862,2,2,0,1,6,0,171,Dési Bouterse
+863,0,0,0,0,0,0,6,Jules Wijdenbosch
+864,0,0,0,0,0,0,6,Ronald Venetiaan
+865,2,2,0,0,0,0,64,Abdul Halim Khaddam
+866,1,2,0,0,0,0,9,Ahmad al-Khatib
+867,2,19,33,1,0,0,358,Bashar al-Assad
+868,1,2,1,1,30,0,555,Hafez al-Assad
+869,2,3,0,0,0,0,252,Michel Aflaq
+870,2,5,0,0,0,0,58,Munif al-Razzaz
+871,1,1,0,0,0,0,12,Nureddin al-Atassi
+872,0,0,0,0,0,0,17,Evaristo Carvalho
+873,0,0,0,0,0,0,6,Fernando Pereira (major)
+874,0,4,0,0,0,0,15,Fradique de Menezes
+875,1,0,0,1,0,0,19,Manuel Pinto da Costa
+876,0,61,0,6,0,0,311,Chen Shui-bian
+877,0,2,0,0,106,0,159,Chiang Ching-kuo
+878,0,9,0,57,339,0,527,Chiang Kai-shek
+879,1,2,0,1,0,0,177,Lee Teng-hui
+880,1,1,0,0,0,0,58,Lin Sen
+881,2,3,0,3,0,0,323,Ma Ying-jeou
+882,2,45,0,0,0,3,117,Tsai Ing-wen
+883,1,3,0,0,0,0,17,Yen Chia-kan
+884,1,0,0,0,0,0,5,Akbarsho Iskandrov
+885,0,1,0,1,0,0,60,Emomali Rahmon
+886,0,0,0,1,0,0,14,Rahmon Nabiyev
+887,0,0,0,0,0,0,15,Anthony Diallo
+888,0,0,0,1,4,0,70,John Magufuli
+889,1,29,0,2,0,0,107,Adama Barrow
+890,0,1,0,2,0,0,210,Dawda Jawara
+891,2,10,0,0,0,0,332,Elizabeth II
+892,0,48,0,7,0,0,252,Yahya Jammeh
+893,1,0,0,0,0,0,7,Andrey Manoylov
+894,1,7,0,0,0,0,66,Igor Smirnov
+895,1,1,0,0,0,0,13,Vadim Krasnoselsky
+896,0,2,0,0,0,0,30,Yevgeny Shevchuk
+897,1,0,0,1,0,0,45,A. N. R. Robinson
+898,1,1,0,0,0,0,20,Anthony Carmona
+899,2,10,0,0,0,0,332,Elizabeth II
+900,0,1,0,1,0,0,29,Ellis Clarke
+901,0,1,0,1,0,0,34,George Maxwell Richards
+902,1,1,0,0,2,0,28,Noor Hassanali
+903,0,0,0,0,0,0,10,Paula-Mae Weekes
+904,0,0,0,1,0,0,51,Beji Caid Essebsi
+905,1,4,0,0,0,0,12,Fouad Mebazaa
+906,3,16,0,13,8,0,821,Habib Bourguiba
+907,1,0,0,0,0,0,32,Mohamed Ghannouchi
+908,1,11,0,1,0,0,44,Moncef Marzouki
+909,0,5,0,0,0,0,194,Muhammad VIII al-Amin
+910,1,0,0,2,9,0,150,Zine El Abidine Ben Ali
+911,0,8,0,1,0,0,78,Abdullah Gül
+912,1,2,0,0,0,0,34,Ahmet Necdet Sezer
+913,2,2,0,0,0,0,48,Celal Bayar
+914,0,0,0,1,0,0,121,Cemal Gürsel
+915,0,1,0,1,0,0,22,Cevdet Sunay
+916,1,2,0,1,0,0,16,Fahri Korutürk
+917,0,0,0,2,0,0,54,Kenan Evren
+918,0,17,2,8,0,0,732,Mustafa Kemal Atatürk
+919,1,136,0,2,18,0,576,Recep Tayyip Erdoğan
+920,0,0,0,0,0,0,84,Süleyman Demirel
+921,0,0,0,3,2,0,99,Turgut Özal
+922,1,3,0,1,1,0,90,İsmet İnönü
+923,2,1,0,0,0,0,80,Gurbanguly Berdimuhamedow
+924,2,9,0,3,5,1,131,Saparmurat Niyazov
+925,2,5,0,0,0,0,20,Tito Okello
+926,2,57,0,3,0,0,266,Yoweri Museveni
+927,0,0,0,0,0,0,34,Andriy Parubiy
+928,0,3,0,0,0,0,169,Arseniy Yatsenyuk
+929,1,6,0,2,1,0,161,Oleksandr Turchynov
+930,0,1,0,3,7,0,255,Petro Poroshenko
+931,1,4,0,0,0,0,41,Volodymyr Groysman
+932,2,2,0,0,7,0,52,Khalifa bin Zayed Al Nahyan
+933,2,10,1,3,0,0,23,Maktoum bin Rashid Al Maktoum
+934,1,20,1,0,0,0,106,Zayed bin Sultan Al Nahyan
+935,2,16,3,5,4,4,561,Barack Obama
+936,2,0,0,5,13,2,386,Benjamin Harrison
+937,2,0,1,24,2,6,514,Bill Clinton
+938,2,0,1,8,26,0,370,Calvin Coolidge
+939,2,12,6,5,28,2,772,Donald Trump
+940,2,0,0,9,21,0,726,Dwight D. Eisenhower
+941,2,0,8,25,0,0,637,Franklin D. Roosevelt
+942,2,0,375,8,80,2,711,George H. W. Bush
+943,2,0,2,7,4,2,638,George W. Bush
+944,2,0,1,8,7,12,591,Gerald Ford
+945,2,0,0,10,17,0,458,Grover Cleveland
+946,2,0,2,16,3,1,572,Harry S. Truman
+947,2,0,0,7,9,4,434,Herbert Hoover
+948,2,0,0,11,24,2,664,Jimmy Carter
+949,2,0,1,5,53,1,780,John F. Kennedy
+950,2,0,2,1,24,2,749,Lyndon B. Johnson
+951,2,0,0,13,6,5,692,Richard Nixon
+952,2,0,1,23,12,2,760,Ronald Reagan
+953,2,39,0,5,43,2,774,Theodore Roosevelt
+954,2,0,0,14,6,1,741,Warren G. Harding
+955,2,25,0,0,12,0,627,William Howard Taft
+956,1,0,2,13,0,3,527,William McKinley
+957,2,0,0,11,7,10,567,Woodrow Wilson
+958,1,10,0,2,0,0,116,José Mujica
+959,1,10,0,2,0,0,62,Tabaré Vázquez
+960,0,0,0,0,0,0,12,Nigmatilla Yuldashev
+961,1,1,0,1,0,0,100,Shavkat Mirziyoyev
+962,0,0,0,0,0,0,13,Esmon Saimon
+963,0,4,0,0,0,0,9,Tallis Obed Moses
+964,1,0,0,0,0,0,18,Aristóbulo Istúriz
+965,1,12,0,0,0,0,26,Delcy Rodriguez
+966,1,12,0,0,0,0,26,Delcy Rodríguez
+967,1,16,0,1,0,0,92,Diosdado Cabello
+968,2,116,0,5,32,0,585,Hugo Chávez
+969,1,8,0,1,0,0,24,Jorge Arreaza
+970,3,0,0,1,225,0,291,Nicolás Maduro
+971,0,13,0,0,0,2,19,Samuel Moncada
+972,2,38,0,0,0,0,114,Tareck El Aissami
+973,1,4,1,1,0,0,331,Ho Chi Minh
+974,1,3,0,0,0,0,374,Lê Duẩn
+975,1,1,0,0,0,0,12,Lê Khả Phiêu
+976,1,3,0,0,0,0,43,Nguyễn Phú Trọng
+977,2,1,0,0,0,0,95,Nguyễn Văn Linh
+978,1,2,0,0,0,0,33,Nông Đức Mạnh
+979,1,10,0,0,0,0,209,Trường Chinh
+980,0,2,0,0,0,0,200,Đỗ Mười
+981,1,0,0,0,0,0,79,Abdrabbuh Mansur Hadi
+982,1,0,0,0,1,0,153,Ali Abdullah Saleh
+983,2,1,0,0,0,0,10,Arthur Benson
+984,0,0,0,1,0,1,54,Edgar Lungu
+985,1,3,0,0,0,0,13,Evelyn Dennison Hone
+986,1,1,0,0,0,0,108,Frederick Chiluba
+987,2,3,0,1,0,0,45,Guy Scott
+988,0,1,0,0,0,0,216,Kenneth Kaunda
+989,1,2,0,2,0,0,116,Levy Mwanawasa
+990,2,2,0,3,0,0,115,Michael Sata
+991,0,2,0,6,0,0,57,Rupiah Banda
+992,2,4,0,2,0,0,88,Canaan Banana
+993,2,3,0,7,4,0,57,Clifford Dupont
+994,2,10,0,1,0,0,452,Emmerson Mnangagwa
+995,1,1,0,0,0,0,8,Henry Everard
+996,1,2,0,0,0,0,10,Josiah Zion Gumede
+997,2,23,0,16,4,0,721,Robert Mugabe
