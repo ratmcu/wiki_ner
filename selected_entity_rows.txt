@@ -1,5 +1,5 @@
-Father’s name
-Mother’s name
+Fatherâ€™s name
+Motherâ€™s name
 Colleges
 Children
 Date of birth
@@ -27,4 +27,11 @@ Born
 Education
 Almat mater
 Alma mater
-
+Alma\xa0mater
+College
+Education
+Parent(s)
+Parents
+High school
+High school:
+Place of birth
